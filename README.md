@@ -36,6 +36,8 @@ Curated list of study materials and pratice labs to prepare for the Certified Ku
 
 ## Documentation
 1. [Kubernetes Official Documentation](https://kubernetes.io/docs/home/)
+2. [CKA FAQ](https://docs.linuxfoundation.org/tc-docs/certification/faq-cka-ckad-cks)
+3. [CKA Tips and Tricks](https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad)
 
 ## Tips & Tricks
 ### Master Imperative Commands
